@@ -1,0 +1,15 @@
+## data
+speech_commands_v0.02/
+
+## files
+*.h5
+*.hdf5
+*.index
+*.tar
+test_cache.data-00000-of-00001
+train_cache.data-00000-of-00001
+val_cache.data-00000-of-00001
+
+## folder
+__pycache__/
+
